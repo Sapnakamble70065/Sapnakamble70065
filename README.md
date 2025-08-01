@@ -22,7 +22,7 @@ My first full-stack project was inspired by Trello! I built it from scratch usin
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sapnadahikamble)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapna-dahikamble-949149288/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapna.dahikamble@mitaoe.ac.in)
 
 ---
